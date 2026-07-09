@@ -462,10 +462,5 @@ The goal is to help businesses create personalized customer experiences powered 
 
 ---
 
-# Hackathon Submission
-
-Developed for:
-
-Epsilon TeXpedition Hackathon 2026
 
 Building intelligent customer experiences through AI-driven decision making.
