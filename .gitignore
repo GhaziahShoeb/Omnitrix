@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# ML
+models/*.pkl
+models/*.joblib
+
+# Data
+data/*.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
