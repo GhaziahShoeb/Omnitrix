@@ -287,7 +287,7 @@ Important Features:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OmniCX-AI.git
+git clone https://github.com/GhaziahShoeb/OmniCX-AI.git
 
 cd OmniCX-AI
 ```
