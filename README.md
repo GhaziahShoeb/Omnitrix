@@ -1,4 +1,4 @@
-# OmniCX AI
+# Omnitrix AI
 
 ## AI-Powered Customer Intelligence and Marketing Automation Platform
 
